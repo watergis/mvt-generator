@@ -1,3 +1,6 @@
+/test/tile
+*.mbtiles
+
 # Logs
 logs
 *.log
